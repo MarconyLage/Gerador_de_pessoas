@@ -1,21 +1,21 @@
-﻿ID;Nome;Data de Nascimento;Cidade;UF;País
-1;Joaquim Andrade;01/02/1970;Camapuã;MS;Brasil
-2;Ana Cecília Correia;21/08/1959;Porteiras;CE;Brasil
-3;Davi Freitas;19/03/1984;Paraí;RS;Brasil
-4;Sophie Ferreira;09/11/1981;Iguape;SP;Brasil
-5;Rafaela Porto;17/03/1942;Granja;CE;Brasil
-6;Pedro Henrique Fogaça;01/04/1960;Buriti;MA;Brasil
-7;Sr. Luiz Felipe Camargo;04/08/1983;Lindóia do Sul;SC;Brasil
-8;Sra. Giovanna Farias;20/04/1990;Cavalcante;GO;Brasil
-9;Guilherme Aparecida;05/11/1954;Santo Expedito;SP;Brasil
-10;Joana Freitas;05/12/1934;Itaí;SP;Brasil
-11;Davi Luiz Cunha;30/01/1967;Saudades;SC;Brasil
-12;Dr. Luan Camargo;18/06/1969;Leopoldina;MG;Brasil
-13;Dr. Josué Farias;10/07/1998;Sapopema;PR;Brasil
-14;Sr. Luiz Miguel Rodrigues;03/12/1963;São Luís Gonzaga do Maranhão;MA;Brasil
-15;Guilherme Araújo;30/10/1941;Córrego do Bom Jesus;MG;Brasil
-16;Sr. Vitor Rodrigues;28/09/2003;Santana da Boa Vista;RS;Brasil
-17;Mirella Barros;22/04/1949;Marcelândia;MT;Brasil
-18;Bárbara Macedo;22/01/1959;Grossos;RN;Brasil
-19;Sra. Manuela Nunes;01/09/1984;Araçoiaba;PE;Brasil
-20;Yasmin Campos;05/07/1986;Barro;CE;Brasil
+﻿ID;Nome;Sexo;Data de Nascimento;Cidade;UF;País
+1;Giovanna Costa;Feminino;27/01/1940;Serrano do Maranhão;MA;Brasil
+2;Pedro Lucas Cardoso;Masculino;21/12/1994;Porto Xavier;RS;Brasil
+3;Caio Costa;Masculino;22/01/1944;Alvorada do Gurguéia;PI;Brasil
+4;Dra. Isabel Duarte;Feminino;29/01/1956;Flor da Serra do Sul;PR;Brasil
+5;Maria Luiza Martins;Feminino;15/02/2005;Teofilândia;BA;Brasil
+6;Henrique Dias;Masculino;23/07/1990;São Bento do Una;PE;Brasil
+7;Dr. Kevin Cunha;Masculino;05/04/1992;Alvarães;AM;Brasil
+8;Anna Liz Nascimento;Feminino;29/10/1943;São Pedro do Sul;RS;Brasil
+9;Marina Dias;Feminino;01/11/1976;Aquidabã;SE;Brasil
+10;Dr. Vitor Hugo Costa;Masculino;28/10/1996;Bandeirante;SC;Brasil
+11;Theodoro Camargo;Masculino;21/10/1937;Pedra Azul;MG;Brasil
+12;Nicolas Pastor;Masculino;22/07/1937;Mirante;BA;Brasil
+13;Luna Gomes;Feminino;02/04/1938;Itapemirim;ES;Brasil
+14;Sr. Nathan Araújo;Masculino;25/01/2000;Tianguá;CE;Brasil
+15;Ana Clara da Cunha;Feminino;11/04/1958;Olímpio Noronha;MG;Brasil
+16;Olivia Lopes;Feminino;31/12/1968;Flor da Serra do Sul;PR;Brasil
+17;Felipe Albuquerque;Masculino;31/10/1944;Riversul;SP;Brasil
+18;Ana Lívia Cassiano;Feminino;03/12/1942;Coqueiros do Sul;RS;Brasil
+19;André Araújo;Masculino;06/04/1984;Castelo;ES;Brasil
+20;Sra. Caroline Martins;Feminino;05/04/1938;Ipueiras;CE;Brasil
